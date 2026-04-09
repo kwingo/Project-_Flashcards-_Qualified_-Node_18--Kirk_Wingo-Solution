@@ -1,4 +1,4 @@
-import { useEffect, useState } from "react";
+import React, { useState, useEffect } from "react";
 import { Link, useNavigate, useParams } from "react-router-dom";
 import { readDeck, updateDeck } from "../utils/api";
 import DeckForm from "./DeckForm";
