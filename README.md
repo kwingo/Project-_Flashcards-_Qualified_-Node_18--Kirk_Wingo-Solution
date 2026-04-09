@@ -83,5 +83,5 @@ npm test
 
 ## 👤 Author
 
-Your Name
-GitHub: https://github.com/yourusername
+Kirk Wingo
+GitHub: https://github.com/kwingo
