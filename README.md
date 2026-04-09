@@ -78,10 +78,3 @@ npm test
 * Search and filter functionality for decks
 * User authentication
 * Persistent backend storage
-
----
-
-## 👤 Author
-
-Kirk Wingo
-GitHub: https://github.com/kwingo
