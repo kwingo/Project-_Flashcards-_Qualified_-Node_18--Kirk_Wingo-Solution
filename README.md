@@ -72,9 +72,30 @@ npm test
 
 ---
 
+## 🤖 AI Usage Disclosure
+
+This project was completed with assistance from ChatGPT.
+
+AI was used for:
+
+* Concept clarification (React hooks, routing, component structure)
+* Guidance on debugging errors and understanding test failures
+* Structuring components and improving code organization
+
+AI was **not used to blindly generate full solutions**, but rather as a learning aid to better understand and implement the required functionality.
+
+---
+
 ## 📌 Future Improvements
 
 * Improved UI styling and responsiveness
 * Search and filter functionality for decks
 * User authentication
 * Persistent backend storage
+
+---
+
+## 👤 Author
+
+Kirk
+GitHub: https://github.com/kwingo
