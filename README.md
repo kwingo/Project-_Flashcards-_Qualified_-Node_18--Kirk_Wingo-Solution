@@ -36,7 +36,7 @@ This project demonstrates core front-end development concepts including componen
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/kwingo/Project-_Flashcards-_Qualified_-Node_18--Kirk_Wingo-Solution.git
 cd flashcard-app
 ```
 
