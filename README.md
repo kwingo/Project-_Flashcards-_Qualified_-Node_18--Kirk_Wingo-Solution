@@ -82,7 +82,7 @@ AI was used for:
 * Guidance on debugging errors and understanding test failures
 * Structuring components and improving code organization
 
-AI was **not used to blindly generate full solutions**, but rather as a learning aid to better understand and implement the required functionality.
+AI was not used to directly debug or fix specific errors in the project code. All implementation, problem-solving, and debugging were completed independently.
 
 ---
 
